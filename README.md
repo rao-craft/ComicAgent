@@ -54,7 +54,7 @@ path. Until then, install it with GraniteRust's installer onto a shelf, and run 
 that shelf, which Craft then reads in place of its own (`~/.rao/apps/craft/agents`):
 
 ```bash
-granite agents add https://github.com/Rao-Craft-Agents/ComicAgent.git --shelf <shelf>
+granite agents add https://github.com/rao-craft/ComicAgent.git --shelf <shelf>
 CRAFT_AGENTS_DIR=<shelf> craft agents      # lists comic
 ```
 

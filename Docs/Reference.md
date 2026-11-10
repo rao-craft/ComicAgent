@@ -49,7 +49,7 @@ The repository is a Cargo workspace whose `crates/comic` names its runner (`[pac
 it on a shelf with its record; each call is then a process of its own, released when it has answered.
 
 ```bash
-granite agents add https://github.com/Rao-Craft-Agents/ComicAgent.git --shelf <shelf>   # GraniteRust's installer
+granite agents add https://github.com/rao-craft/ComicAgent.git --shelf <shelf>   # GraniteRust's installer
 echo '{"perform":{"word":"comic","input":{"script":"strip.png"},"model":false}}' | <shelf>/ComicAgent/agent
 ```
 

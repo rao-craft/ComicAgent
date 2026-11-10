@@ -1,5 +1,5 @@
 {
-  "$id" : "https://github.com/Rao-Craft-Agents/ComicAgent/blob/main/Schema/comic.input.schema.json",
+  "$id" : "https://github.com/rao-craft/ComicAgent/blob/main/Schema/comic.input.schema.json",
   "$schema" : "https://json-schema.org/draft/2020-12/schema",
   "description" : "Every field a call to comic may give; `directory` is Craft's, never the model's.",
   "properties" : {

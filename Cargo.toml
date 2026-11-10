@@ -16,7 +16,7 @@ edition = "2024"
 license = "MIT"
 version = "0.1.0"
 rust-version = "1.87"
-repository = "https://github.com/Rao-Craft-Agents/ComicAgent"
+repository = "https://github.com/rao-craft/ComicAgent"
 
 [workspace.dependencies]
 granite = { git = "https://github.com/riteshpakala/GraniteRust.git", branch = "main" }

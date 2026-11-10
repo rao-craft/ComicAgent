@@ -1,5 +1,5 @@
 {
-  "$id": "https://github.com/Rao-Craft-Agents/ComicAgent/blob/main/Schema/comic.schema.json",
+  "$id": "https://github.com/rao-craft/ComicAgent/blob/main/Schema/comic.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "A stick-figure comic script (craft-comic/1)",
   "description": "What the host's model writes and what a strip's PNG carries in its `comic-spec` iTXt chunk: panels of stick figures from a catalogue of poses, what they say, a caption a panel, a few props, a title and an aside. The agent lays it out, letters it and draws it; nothing here says where anything goes on the page.",
